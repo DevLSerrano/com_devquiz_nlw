@@ -7,4 +7,6 @@ class AppImages {
   static String get error => "assets/images/error.png";
   static String get trophy => "assets/images/trophy.png";
   static String get logo => "assets/images/logo.png";
+  static String get trophySad => "assets/images/trophy_sad.png";
+  static String get trophyMedium => "assets/images/trophy_medium.png";
 }
